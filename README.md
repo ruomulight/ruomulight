@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Amethyst-yu
+# 👋 Hi, I'm ruomulight
 
 ### 🌍 Visualizing the World with Code
 
@@ -124,8 +124,8 @@ const amethyst = {
 
 *"Every pixel tells a story, every coordinate matters"*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Amethyst-yu&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=ruomulight&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Amethyst-yu](https://github.com/Amethyst-yu) | 🌍 Mapping the Future
+⭐️ From [ruomulight](https://github.com/ruomulight) | 🌍 Mapping the Future
 
 </div>
