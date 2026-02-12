@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```javascript
-const amethyst = {
+const ruomulight = {
     currentFocus: "WebGIS Visualization & 3D Mapping",
     learning: ["WebGL Shaders", "Remote Sensing Analysis"],
     passion: "Turning complex Spatial Data into actionable insights",
